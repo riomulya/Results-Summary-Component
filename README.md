@@ -59,8 +59,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/riomulya/Results-Summary-Component)
+- Live Site URL: [Github Pages](https://riomulya.github.io/summary-cmp-rio.github.io/)
 
 ## My process
 
@@ -103,7 +103,6 @@ import TheSummary from '/src/components/TheSummary.vue';
 ### Continued development
 
 -- I planned to use this component for future and modify it some.
-
 
 ## Author
 
